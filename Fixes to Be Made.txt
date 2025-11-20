@@ -1,0 +1,35 @@
+FIXES TO BE MADE
+================================================================================
+
+Total items to review: 11
+
+1. MISSING PARAGRAPH: "Annalisa is now a fixture in a nine-bed ICU. They let my mom stay,
+   despite the isolation rules. Anna is about two or three years old mentally..."
+   - This entire paragraph appears to be missing from the typeset PDF
+   - Location in original: After "Six hours later, she was in the hospital" section
+   - The word "fixture" does not appear anywhere in the PDF
+   - Please verify and add this paragraph if missing
+
+2. MANUAL CHECK: Verify all italics from Word doc appear in PDF
+
+3. MANUAL CHECK: Verify consistent margins and indents throughout
+
+4. Page 3: Possible orphan - 'publicationspublications'
+
+5. Page 4: Possible orphan - 'ISBN: 978-0-xxxxxxxx-2-0'
+
+6. Page 5: Possible widow - 'JEANNE LEIBY AWARD'
+
+7. Page 28: Possible widow - 'Wednesday Trash DayTexting'
+
+8. Page 31: Possible widow - 'Thirty-six Days Later'
+
+9. Page 35: Possible orphan - '<unreadable>'
+
+10. Page 53: Possible widow - '53Acknowledgments'
+
+11. Page 55: Possible widow - 'About the Author'
+
+
+================================================================================
+END OF FIXES
